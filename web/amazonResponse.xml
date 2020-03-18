@@ -1,0 +1,328 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+  <OperationRequest>
+    <RequestId>891c3480-0228-4c34-822e-14c62beb5fe4</RequestId>
+    <Arguments>
+      <Argument Name="Keywords" Value="Booba"></Argument>
+      <Argument Name="Operation" Value="ItemSearch"></Argument>
+      <Argument Name="ResponseGroup" Value="Offers,ItemAttributes"></Argument>
+      <Argument Name="SearchIndex" Value="Music"></Argument>
+      <Argument Name="Service" Value="AWSECommerceService"></Argument>
+      <Argument Name="Timestamp" Value="2020-03-18T12:41:43Z"></Argument>
+      <Argument Name="Version" Value="2009-03-31"></Argument>
+    </Arguments>
+    <RequestProcessingTime>1.6714298725128</RequestProcessingTime>
+  </OperationRequest>
+  <Items>
+    <Request>
+      <IsValid>True</IsValid>
+      <ItemSearchRequest>
+        <Keywords>Booba</Keywords>
+        <ResponseGroup>Offers</ResponseGroup>
+        <ResponseGroup>ItemAttributes</ResponseGroup>
+        <SearchIndex>music</SearchIndex>
+      </ItemSearchRequest>
+    </Request>
+    <Item>
+      <ASIN>B017W9WP72</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/81jlazaS4jL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/81jlazaS4jL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/81jlazaS4jL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Artist>Booba</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B017W9WP72</EAN>
+        <EANList>
+          <EANListElement>B017W9WP72</EANListElement>
+        </EANList>
+        <ProductGroup>Music</ProductGroup>
+        <Title>Nero nemesis</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>1499</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 14,99</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>B07TQYSJWJ</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/71rnNWE-pcL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/71rnNWE-pcL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/71rnNWE-pcL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Artist>Booba
+        
+    
+
+ et 
+
+
+
+
+
+    
+        
+        
+            Lukas Delcourt</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B07TQYSJWJ</EAN>
+        <EANList>
+          <EANListElement>B07TQYSJWJ</EANListElement>
+        </EANList>
+        <ProductGroup>Music</ProductGroup>
+        <Title>Panthéon</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>1999</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 19,99</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>B000MG1YKM</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/61hpulaLZ+L._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/61hpulaLZ+L._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/61hpulaLZ+L._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Artist>Booba</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B000MG1YKM</EAN>
+        <EANList>
+          <EANListElement>B000MG1YKM</EANListElement>
+        </EANList>
+        <ProductGroup>Music</ProductGroup>
+        <Title>Autopsie /Vol.2</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>2400</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 24,00</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>B0776K46XS</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/5156hwr9WEL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/5156hwr9WEL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/5156hwr9WEL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Artist>Booba</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B0776K46XS</EAN>
+        <EANList>
+          <EANListElement>B0776K46XS</EANListElement>
+        </EANList>
+        <ProductGroup>Music</ProductGroup>
+        <Title>Trône</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>7000</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 70,00</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>B000L42JWM</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/51ocdRTlklL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/51ocdRTlklL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/51ocdRTlklL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Artist>Booba</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B000L42JWM</EAN>
+        <EANList>
+          <EANListElement>B000L42JWM</EANListElement>
+        </EANList>
+        <ProductGroup>Music</ProductGroup>
+        <Title>Booba "Temps Mort" (Vynil)</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>6000</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 60,00</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>B000UF70P8</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/51pJuYKPp-L._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/51pJuYKPp-L._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/51pJuYKPp-L._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Artist>Booba</Artist>
+        <Binding>Audio CD</Binding>
+        <EAN>B000UF70P8</EAN>
+        <EANList>
+          <EANListElement>B000UF70P8</EANListElement>
+        </EANList>
+        <ProductGroup>Music</ProductGroup>
+        <Title>Autopsie/Vol.1</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>2400</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 24,00</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+  </Items>
+</ItemSearchResponse>
